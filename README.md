@@ -38,7 +38,7 @@ Tests | [🚨 Police Cars Revolving Light](http://emojipedia.org/police-cars-rev
 Deprecation | [💩 Pile of Poo](http://emojipedia.org/pile-of-poo/)
 Removal | [🗑️ Wastebasket](http://emojipedia.org/wastebasket/)
 Work In Progress (WIP) | [🚧 Construction Sign](http://emojipedia.org/construction-sign/)
-Model database change | [💼 Briefcase] (https://emojipedia.org/briefcase/) :briefcase:
+Model database change | [💼 Briefcase] (https://emojipedia.org/briefcase/) ```:briefcase:```
 
 ## Using Emoji is Hard! 😡
 
