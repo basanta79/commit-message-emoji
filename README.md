@@ -21,7 +21,7 @@ For commits with multiple types of messages, use multiple lines:
 
 Commit Type | Emoji
 ----------  | -----
-Initial Commit | [🎉 Party Popper](http://emojipedia.org/party-popper/)
+Initial Commit | [🎉 Party Popper](http://emojipedia.org/party-popper/)```:tada:```
 Version Tag | [🔖 Bookmark](http://emojipedia.org/bookmark/)
 New Feature | [✨ Sparkles](http://emojipedia.org/sparkles/)
 Bugfix | [🐛 Bug](http://emojipedia.org/bug/)
